@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Small_Banking_React_Redux/static/css/main.f855e6bc.css",
+    "main.js": "/Small_Banking_React_Redux/static/js/main.1f6bb847.js",
+    "static/js/488.e1e80c25.chunk.js": "/Small_Banking_React_Redux/static/js/488.e1e80c25.chunk.js",
+    "index.html": "/Small_Banking_React_Redux/index.html",
+    "main.f855e6bc.css.map": "/Small_Banking_React_Redux/static/css/main.f855e6bc.css.map",
+    "main.1f6bb847.js.map": "/Small_Banking_React_Redux/static/js/main.1f6bb847.js.map",
+    "488.e1e80c25.chunk.js.map": "/Small_Banking_React_Redux/static/js/488.e1e80c25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1f6bb847.js"
+  ]
+}
